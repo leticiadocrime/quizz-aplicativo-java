@@ -2,46 +2,46 @@
 let questions = [
   {
     numb: 1,
-    question: "qual foi o clube que ganhou o munial em 2012 ?",
-    answer: "Corinthians",
+    question: "Qual foi o primeiro nome do Brasil?",
+    answer: "Ilha de Vera Cruz",
     options: [
-      "Corinthians",
-      "Palmeiras",
-      "Chealse",
-      "Santos"
+      "Terra de Santa Cruz",
+      "Terra de Vera Cruz",
+      "Brazil",
+      "Ilha de Vera Cruz"
     ]
   },
   {
     numb: 2,
-    question: "Qual a seleção que ganhou mais copas ?",
-    answer: "Brasil",
+    question: "Qual é a moeda que circula no país, hoje?",
+    answer: "Real",
     options: [
-      "Alemanha",
-      "Brasil",
-      "Italia",
-      "Chile"
+      "Cruzeiro Real",
+      "Cruzeiro",
+      "Real",
+      "Novo real"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do rei do futebol Pelé?",
-    answer: "Edson Arantes do Nascimento",
+    question: "Quem governa o Brasil? (2019)",
+    answer: "Jair Messias Bolsonaro",
     options: [
-      "Francisco Silva",
-      "Edson Arantes do Nascimento",
-      "Milton Nascimento",
-      "Galvão Bueno"
+      "Luiz Inácio Lula da Silva",
+      "Dilma Rousseff",
+      "Color",
+      "Jair Messias Bolsonaro"
     ]
   },
   {
     numb: 4,
-    question: "Quantos Paulistas tem o Corinthians?",
-    answer: "30",
+    question: "Quem foi o primeiro presidente da República?",
+    answer: "Marechal Deodoro da Fonseca",
     options: [
-      "12",
-      "21",
-      "30",
-      "33"
+      "Dom Pedro||",
+      "Marechal Deodoro da Fonseca",
+      "Dom Pedro|",
+      "Neymar"
     ]
   },
   {
