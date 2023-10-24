@@ -46,13 +46,13 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Qual o maior ídolo da história do Corinthians?",
-    answer: "Cassio Ramos",
+    question: "A primeira capital do Brasil foi:",
+    answer: "Salvador",
     options: [
-      "Neto",
-      "Danilo",
-      "Cassio Ramos",
-      "Roger Guedes"
+      "São Paulo",
+      "Rio de Janeiro",
+      "Salvador",
+      "Brasília"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
