@@ -183,7 +183,7 @@ body{
 
 section{
   padding: 25px 30px 20px 30px;
-  background: #fff;
+  background: #F08080;
 }
 
 section .que_text{
@@ -215,20 +215,20 @@ section .option_list .option:last-child{
 }
     
 section .option_list .option:hover{
-    color: #004085;
-    background: #cce5ff;;
+    color: #FA8072;
+    background: #DC143C;
     border: 1px solid #b8daff;
 }
 
 section .option_list .option.correct{
-    color: #155724;
-    background: #d4edda;
+    color: #F08080;
+    background: #CD5C5C;
     border: 1px solid #c3e6cb;
 }
 
 section .option_list .option.incorrect{
-    color: #721c24;
-    background: #f8d7da;
+    color: #DDA0DD;
+    background: #BA55D3;
     border: 1px solid #f5c6cb;
 }
 
@@ -248,14 +248,14 @@ section .option_list .option .icon{
     line-height: 24px;
 }
 .option_list .option .icon.tick{
-    color: #23903c;
+    color: #7B68EE;
     border-color: #23903c;
-    background: #d4edda;
+    background: #4B0082;
 }
 
 .option_list .option .icon.cross{
-    color: #a42834;
-    background: #f8d7da;
+    color: #008B8B;
+    background: #00FFFF;
     border-color: #a42834;
 }
 
@@ -290,9 +290,9 @@ footer button{
     cursor: pointer;
     border: none;
     outline: none;
-    color: #fff;
+    color: #32CD32;
     border-radius: 5px;
-    background: #007bff;
+    background: #008000;
     border: 1px solid #007bff;
     line-height: 10px;
     opacity: 0;
@@ -302,7 +302,7 @@ footer button{
 }
 
 footer button:hover{
-    background: #0263ca;
+    background: #7FFF00;
 }
 
 footer button.show{
@@ -328,7 +328,7 @@ footer button.show{
 
 .result_box .icon{
     font-size: 100px;
-    color: #007bff;
+    color: #00FF7F;
     margin-bottom: 10px;
 }
 
@@ -369,21 +369,21 @@ footer button.show{
 }
 
 .buttons button.restart{
-    color: #fff;
-    background: #007bff;
+    color: #00008B;
+    background: #0000FF;
 }
 
 .buttons button.restart:hover{
-    background: #0263ca;
+    background: #4682B4;
 }
 
 .buttons button.quit{
-    color: #007bff;
-    background: #fff;
+    color: #B0C4DE;
+    background: #708090;
 }
 
 .buttons button.quit:hover{
-    color: #fff;
-    background: #007bff;
+    color: #5F9EA0;
+    background: #ADD8E6;
 }
   
